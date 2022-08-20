@@ -1,0 +1,1 @@
+{"uuid":"8125c357-a903-4f3a-8317-294119e914bb","name":"AutomationTask.AutomationTask.signup","children":["03973841-3ab5-4995-bdf3-2690bc384168"],"befores":[{"name":"WebDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1661018044179,"stop":1661018053975}],"afters":[],"start":1661018044139,"stop":1661018080586}
